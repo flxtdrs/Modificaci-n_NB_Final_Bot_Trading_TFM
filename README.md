@@ -1,5 +1,6 @@
 # Modificaci-n_NB_Final_Bot_Trading_TFM
 TFM Matestria IA aplicado a los mercados financieros (Notebook_Bot_trading)
+
 Ajustes realizados al modelo: sin realizar grandes cambios al modelo inicial, esta modificación logra pasar la prueba sin romper  ninguna de las otras reglas. Les describo un poco sobre los cambios realizados:
 
 MODIFICACIONES EN EL MODELO 
